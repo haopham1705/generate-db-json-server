@@ -1,0 +1,12 @@
+{
+	"list_cars" : [
+		{
+			"id" : 0,
+			"brand": "",
+			"pictures": "",
+			"model" : "",
+			"color": "",
+			"serial": ""
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"list_people" : [
+		{
+			"id" : 0,
+			"name" : "",
+			"avatar" : "",
+			"nationality": ""
+		}
+	]
+}
